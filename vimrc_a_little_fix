@@ -40,7 +40,7 @@
  syntax on
  set nu!
  set cindent
- set background=dark
+ set background = dark
  set ruler
  set tabstop=4
  set ignorecase
