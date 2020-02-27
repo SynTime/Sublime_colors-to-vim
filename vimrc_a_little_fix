@@ -42,5 +42,5 @@
  set cindent
  set background = dark
  set ruler
- set tabstop=4
+ set tabstop = 4
  set ignorecase
